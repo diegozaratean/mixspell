@@ -1,0 +1,3 @@
+Nombre: Rafael Arias    
+Pais: Colombia
+Edad: 27
