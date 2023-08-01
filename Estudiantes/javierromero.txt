@@ -1,0 +1,3 @@
+Nombre: Javier Romero
+País: Costa Rica
+Edad: 30 años.
